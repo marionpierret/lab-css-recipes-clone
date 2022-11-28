@@ -1,6 +1,5 @@
 body {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: sans-serif;
 }
 
 header {
@@ -29,7 +28,7 @@ h2 {
 }
 
 .myFavorite {
-  text-align: center;
+  text-align: center justify;
   font-size: 20px;
   width: 700px;
   margin: 50px auto;
@@ -52,7 +51,7 @@ h2 {
 }
 
 .ingredientsPart {
-  margin-left: 350px;
+  margin-left: 25%;
   margin-top: 20px;
   margin-bottom: 50px;
 }
@@ -67,7 +66,7 @@ h2 {
 
 .directionsPart {
   width: 650px;
-  margin-left: 350px;
+  margin-left: 25%;
   margin-top: 20px;
 }
 
